@@ -31,6 +31,7 @@ addProductButton.addEventListener("click", function () {
 });
 
 
+
 function renderTasks() {
   cartElement.innerHTML = "";  // clear old list
 
